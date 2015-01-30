@@ -17,5 +17,13 @@
   top: 0;
   right: 100%;
   bottom: 0;
+<<<<<<< HEAD
   width: 100%;
+=======
+
+  -webkit-transition: width 1s;
+  -moz-transition: width 1s;
+  -o-transition: width 1s;
+  transition: width 1s;
+>>>>>>> parent of c258baa... Remove width CSS transition which was messing with the progress bar animation, noticeable especially on faster websites
 }
